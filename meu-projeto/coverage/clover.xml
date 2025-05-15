@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1747351230298" clover="3.2.0">
+  <project timestamp="1747351230298" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="10" coveredconditionals="10" methods="4" coveredmethods="4" elements="22" coveredelements="22" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+    <file name="app.js" path="/home/matheus/Documents/Fatec/DevOps/ex03-ci-cd/meu-projeto/src/js/app.js">
+      <metrics statements="8" coveredstatements="8" conditionals="10" coveredconditionals="10" methods="4" coveredmethods="4"/>
+      <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
